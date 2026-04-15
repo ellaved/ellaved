@@ -21,6 +21,7 @@ export default defineConfig({
         image: ['xlink:href', 'href'],
         use: ['xlink:href', 'href'],
         NolebaseUnlazyImg: ['src'],
+        base: '/ellaved/',  
       },
     },
   },
